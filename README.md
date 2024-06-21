@@ -5,7 +5,7 @@
   Welcome to <strong>Twiit - Real</strong>, the next-generation social media platform designed to connect, share, and engage with the world in real-time. Built with the latest web technologies, Twiit - Real offers a sleek, intuitive user experience tailored for modern social interactions.
 </p>
 
-<h2 style="font-size: 1.75em;">Features</h2>
+<h2 style="font-size: 1.75em;">Feature</h2>
 <ul style="font-size: 1.2em;">
   <li><strong>Real-Time Updates</strong>: Instant notifications and live feeds to keep you updated with the latest posts and trends.</li>
   <li><strong>Sleek Design</strong>: Clean, user-friendly interface designed for seamless navigation and interaction.</li>
