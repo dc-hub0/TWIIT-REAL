@@ -19,7 +19,7 @@
 
 <h2 style="font-size: 1.75em;">How It Works</h2>
 <p style="font-size: 1.2em;">
-  Twiit - Real harnesses the power of Vite and React to deliver a fast, responsive, and highly interactive social media experience. Whether you're posting updates, sharing media, or engaging in conversations, Twiit - Real ensures a smooth and dynamic user experience.
+  Twiit - Real harnesses the power of Vite and React to deliver a fast, responsive, and highly interactive social media experience. Whether you're posting updates, sharing media, or engaging in conversations,  Twiit - Real ensures a smooth and dynamic user experience.
 </p>
 
 <h2 style="font-size: 1.75em;">Get Started</h2>
